@@ -10,19 +10,19 @@ Course name generator
 
 ### Samples
 
-* inorganic macroeconomics
-* introduction to astrochemistry
-* linear philosophy for physicians
-* perspectives on classic astrostatistics
-* introduction to socialist hydromodelling
-* safety-critical programming
-* planetary analysis II
-* the nature of modern programming for engineers I
-* naval model-derived languages for chemists
-* popular hydrophilosophy
-* linear space-driven sciences
-* anthropological algebra for educators II
-* introduction to physical telealgebra
+* Inorganic macroeconomics
+* Introduction to astrochemistry
+* Linear philosophy for physicians
+* Perspectives on classic astrostatistics
+* Introduction to socialist hydromodelling
+* Safety-critical programming
+* Planetary analysis II
+* The nature of modern programming for engineers I
+* Naval model-derived languages for chemists
+* Popular hydrophilosophy
+* Linear space-driven sciences
+* Anthropological algebra for educators II
+* Introduction to physical telealgebra
 
 
 -----------------------
