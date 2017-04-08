@@ -178,6 +178,7 @@ class CourseNameGenerator:
             title.append(self.rngs['which_num'].sample(
                 ['I', 'I' * 2, 'I' * 3], 1)[0])
 
+        title[0] = title[0].capitalize()
         return ' '.join(title)
 
 
@@ -196,7 +197,7 @@ def main():
         gen = CourseNameGenerator(words_by_kind=WORDS_BY_KIND)
 
     for _ in range(args.number):
-        print(gen.gen_course_name().capitalize())
+        print(gen.gen_course_name())
 
 
 if __name__ == '__main__':
